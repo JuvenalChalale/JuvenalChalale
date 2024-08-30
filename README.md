@@ -15,4 +15,5 @@
 <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 <img align="center" alt="node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-</div>
+</div><br>
+Sou apaixonado por tecnologia desde cedo, sempre fascinado pela maneira como ela pode transformar o cotidiano e impulsionar a inovação. O entusiasmo por explorar novas ferramentas e aprender continuamente me motiva a mergulhar em projetos desafiadores, buscando soluções que combinam criatividade e eficiência. Para mim, a tecnologia é mais do que um campo de estudo; é uma oportunidade de moldar o futuro e criar impacto positivo no mundo ao meu redor.
