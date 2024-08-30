@@ -2,8 +2,8 @@
 ### Olá! Eu sou o Juvenal Chalale👋
 
 
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553333845303)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juvenal-chalale-7191672b5)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=61553333845303)
 
 ![Juvenal Chalale GitHub stats](https://github-readme-stats.vercel.app/api?username=JuvenalChalale&show_icons=true&theme=dracula)
 
